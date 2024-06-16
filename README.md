@@ -1,4 +1,4 @@
-![IPL Auction Dashboard](Cricket Analysis.png)
+![IPL Auction Dashboard](Cricket_Analysis.png)
 
 
 # IPL-Auction-Insights-A-Role-Based-Performance-Dashboard
